@@ -1,1 +1,4 @@
-Chimp Mayhem uses your android device specific ID to generate an account using photin/playfab. Your info is not used anywhere else. 
+Chimp Mayhem uses your Android Device's (Quest 2) Unique ID to make an account using Playfab and Photon.
+Chimp Mayhem does not collect your data or sell it.
+
+To request account deletion, please email off.RiceGM@gmail.com
