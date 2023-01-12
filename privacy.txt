@@ -1,0 +1,1 @@
+Chimp Mayhem uses your android device specific ID to generate an account using photin/playfab. Your info is not used anywhere else. 
