@@ -1,0 +1,3 @@
+Chimp Mayhem does not sell your data. 
+The game uses playfab and photon to manage players (playfab) and photon for the multiplayer.
+Please refer to their privacy policies if you want more info.
